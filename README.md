@@ -2,5 +2,5 @@
 
 Backend-api terminal  →  node index.js
 
-abb_db terminal  → cd .\App_db\
+app_db terminal  → cd .\App_db\
                         npm run dev
